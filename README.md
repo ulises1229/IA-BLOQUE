@@ -1,5 +1,10 @@
 # Inteligencia Artificial y Aprendizaje Automático
 
+
+![Logos participantes](figs/logos.png)
+
+![IA applications](figs/IA.png)
+
 ---
 
 **Fecha:** 27 de febrero a 21 marzo de 2024  
