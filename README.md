@@ -19,9 +19,14 @@ Desarrollar una comprensión profunda y aplicada de los principios y técnicas f
 - Seguir las tendencias actuales y emergentes en IA.
 - Considerar la ética en el desarrollo y aplicación de la IA.
 
-**Modalidad:** Presencial  
-**Prerrequisitos:** Computadora personal con acceso a internet y cuenta de Gmail y conocimientos básicos de programación.
+## **Modalidad:** 
+>Presencial  
+## **Prerrequisitos:** 
++ Computadora personal con acceso a internet
++ Cuenta de Gmail
++ Conocimientos básicos de programación.
 
+## Temario
 | Sesiones    | Tema                                                               | Subtemas                                                                  | Material de Consulta                                                                                                     | Ejercicios |
 |-------------|--------------------------------------------------------------------|----------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------|------------|
 | Sesión 1    | Introducción a la IA y Aprendizaje Profundo                        | - Historia y Fundamentos de la IA<br>- Diferencias entre ML y AP<br>- Aplicaciones y Casos de Éxito | ["Artificial Intelligence: A Modern Approach" por Stuart Russell y Peter Norvig](https://www.amazon.com/Artificial-Intelligence-Modern-Approach-3rd/dp/0136042597) |            |
