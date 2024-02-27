@@ -8,7 +8,9 @@
 ---
 
 **Fecha:** 27 de febrero a 21 marzo de 2024  
+
 **Responsable:** Dr. Ulises Olivares Pinto  
+
 **Auxiliares:** Alan Poisot Palacios, Joshelyn Yanori Mendoza Alfaro  
 
 ## Objetivo General
