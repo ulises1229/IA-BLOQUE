@@ -48,4 +48,4 @@ Desarrollar una comprensión profunda y aplicada de los principios y técnicas f
 | Sesión 9    | Proyecto y Discusiones Finales                                     | <ul><li>Presentación de Proyectos Finales</li><li>Retos y Futuro de la IA y AP</li></ul>                                                                      | ["The Master Algorithm" por Pedro Domingos](https://www.amazon.com/Master-Algorithm-Ultimate-Learning-Machine/dp/0465065708) y artículos relevantes sobre las tendencias actuales y emergentes en IA |            |
 
 
-#### Última modificación: 29 de febrero de 2024
+#### Última modificación: 07 de marzo de 2024
